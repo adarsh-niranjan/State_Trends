@@ -1,5 +1,5 @@
 # State_Trends
-<img src="https://qph.cf2.quoracdn.net/main-qimg-7fa86c3bfbd2b14eaf97c42eca280e89" width=400 height=100>
+<img src="https://alidropship.com/wp-content/uploads/webp/2019/08/Google_Trends_02_jpg.webp" width=400 height=100>
 
 ## *A Google Trends score Analysis project using R Studio*
 

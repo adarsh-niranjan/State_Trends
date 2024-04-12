@@ -8,10 +8,13 @@ The **Source** folder contains all the source files from which the tables were d
 * region_stats.csv <br>
 
 ### Analysis.R:
-Contains actual R code. <br>
+Contains actual R script code. <br>
+
+### Complete.zip:
+Contains the entire project as a zip file since Github does not allow some hidden files to be uploaded. <br>
 
 ## Details:
-**Let's analyze Google Trends data for various states. We'll examine search scores across different categories like subject popularity, entertainment preferences, and sports interests. By exploring these trends, we can potentially draw connections between search patterns and characteristics of the population in each state.** <br>
+**Let's analyse Google Trends data for various states. We'll examine search scores across different categories like subject popularity, entertainment preferences, and sports interests. By exploring these trends, we can potentially draw connections between search patterns and characteristics of the population in each state.** <br>
 
 ### Components
 - state: The common name of the states.
@@ -19,7 +22,7 @@ Contains actual R code. <br>
 - population: Population values from the 2020 US Census.
 - sq_miles: Total area (land and water) in square miles.
 - pop_density: Population per square mile. Calculated from the two previous var
-- psych_region: Three state-level personality profiles, coded as "Friendly and Conventional,""Relaxed and Creative," or "Temperamental and Uninhibited".
+- psych_region: Three state-level personality profiles, coded as "Friendly and Conventional","Relaxed and Creative" or "Temperamental and Uninhibited".
 - psy_reg: Shortened labels for the previous variable, coded as "Friendly," "Creative," or "Uninhibited."
 - extraversion: Extraversion (outgoing/energetic vs. solitary/reserved)
 - agreeableness: Agreeableness (friendly/compassionate vs. challenging/detached)
